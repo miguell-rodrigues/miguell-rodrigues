@@ -8,7 +8,7 @@ Programador desde 2015
 Foco em Backend
 </p>
 
-### Tecnologias Favoritas:
+### Tecnologias
 
 <ul>
    <li>Java</li>
